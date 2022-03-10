@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 11rankine_pract.pdf
 uid: ba316680-a34a-95ff-a89a-861358920360
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

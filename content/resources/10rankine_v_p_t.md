@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 10rankine_v_p_t.pdf
 uid: 1b41f4c4-cb6e-fe3c-d4b6-2509f4ef2778
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 07prop_desn_plot.pdf
 uid: d541e4e2-1773-d8a2-2039-6c6e752ccad5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

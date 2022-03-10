@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 03prop_des_det.pdf
 uid: 79b5acff-62f5-78f6-87df-c082cf380a14
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 14basic_diesel.pdf
 uid: 7392279a-5ce4-3fe2-a653-d6b4a8f58de8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

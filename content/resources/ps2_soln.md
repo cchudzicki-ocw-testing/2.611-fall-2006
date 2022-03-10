@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: ps2_soln.xmcd
 uid: 5891d174-7385-dd92-617e-00450d819748
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 11rank_reheat.pdf
 uid: fa0f0e69-7d2d-70f9-6255-78be10bd2896
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

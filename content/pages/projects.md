@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 8465109c-926a-5af5-f980-e455e3a03545
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The final project is a three-part frigate propulsion plant design project. Below are the full descriptions for each part.

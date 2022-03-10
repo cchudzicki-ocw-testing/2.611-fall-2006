@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 25helical_gears.pdf
 uid: e79766fc-d52d-43f8-0214-8852326d5d8c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

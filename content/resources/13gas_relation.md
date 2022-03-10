@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 13gas_relation.pdf
 uid: 1a7830d3-da0d-8e81-97a8-d9817b042fca
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

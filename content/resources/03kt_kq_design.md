@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 03kt_kq_design.pdf
 uid: b921c150-102f-7aaa-d1ed-b11b826e119d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

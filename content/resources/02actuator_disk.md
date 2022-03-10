@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 02actuator_disk.pdf
 uid: a38fb099-d40f-cc67-b217-1c29b9ce7f57
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

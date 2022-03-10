@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: quiz1_sol.pdf
 uid: 5e1257d9-dd62-4d26-c4a3-2285e871400c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

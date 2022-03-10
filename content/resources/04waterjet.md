@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 04waterjet.pdf
 uid: 3b264011-97d2-c93c-6602-89c51fa8e7bb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

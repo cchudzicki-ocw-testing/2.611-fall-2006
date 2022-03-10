@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 09water_propert.pdf
 uid: 49a42eae-8844-3653-39c0-5c3cbb9fb0d9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

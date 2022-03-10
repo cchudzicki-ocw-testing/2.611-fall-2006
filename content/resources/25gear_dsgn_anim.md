@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 25gear_dsgn_anim.pdf
 uid: c0dade71-c6df-e8f7-770f-dd3f2eecd673
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

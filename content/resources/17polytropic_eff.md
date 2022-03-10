@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 17polytropic_eff.pdf
 uid: 866bb6f3-166d-327d-2127-0452b44b828a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

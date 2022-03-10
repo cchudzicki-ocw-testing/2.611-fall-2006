@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 05first_law.pdf
 uid: 81d9f268-05d7-6913-6b09-7b2cb3df9376
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

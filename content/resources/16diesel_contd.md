@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 16diesel_contd.pdf
 uid: 98342b30-947a-92b4-be37-2410ccc06aa7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

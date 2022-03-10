@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: vlm.fig
 uid: bdb5ffa5-4567-c252-1aed-bedafbf8230f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

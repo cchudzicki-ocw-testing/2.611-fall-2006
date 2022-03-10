@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 06availability.pdf
 uid: 2aa5e219-4930-48f7-7ad0-52b4b58ed901
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

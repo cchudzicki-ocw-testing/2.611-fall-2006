@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 11rankine_regen.pdf
 uid: 1724de3d-a37e-fc23-3094-51bb4c490f65
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

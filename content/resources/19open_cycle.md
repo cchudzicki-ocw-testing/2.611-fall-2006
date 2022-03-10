@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 19open_cycle.pdf
 uid: f9757467-2426-cc3d-a9df-c9556523ba3c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

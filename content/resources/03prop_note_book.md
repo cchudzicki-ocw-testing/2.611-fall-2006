@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 03prop_note_book.pdf
 uid: 6e05bb5e-9612-760c-a8d1-a9746cbf9a95
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

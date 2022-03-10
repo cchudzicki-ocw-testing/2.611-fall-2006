@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 05thermo_summ.pdf
 uid: e4c4c636-ccaf-f892-c28b-3f6e0f07e208
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

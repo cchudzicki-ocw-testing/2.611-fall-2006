@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 21electri_motors.pdf
 uid: a36fcb00-241b-3861-7ae1-d18160c320b2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

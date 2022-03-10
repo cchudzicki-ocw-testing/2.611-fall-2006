@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: part3.pdf
 uid: fea69593-cfa8-ae38-fec5-fdb949aaa172
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

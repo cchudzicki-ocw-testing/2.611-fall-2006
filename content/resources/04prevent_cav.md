@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 04prevent_cav.pdf
 uid: 73e1f3bd-ca3d-7d80-ced1-863094f47a40
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

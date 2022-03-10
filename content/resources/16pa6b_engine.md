@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: 16pa6b_engine.pdf
 uid: ef9780ba-832d-d6c4-6e5a-8d2e58fb30ab
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

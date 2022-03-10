@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 09rankine.pdf
 uid: b9ee45dc-7ca8-c75b-2635-71bc826e6ae4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 13prop_gases.pdf
 uid: 68b5bb79-d5f5-1643-b45a-0a747c34d470
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

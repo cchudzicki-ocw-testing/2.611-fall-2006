@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 06keenan_avail.pdf
 uid: 87017501-0d81-ba20-6df1-b687d57ec38a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

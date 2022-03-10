@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 17brayton_cycle.pdf
 uid: e3a6dd1e-493d-6209-b653-7b55c5ea84a6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

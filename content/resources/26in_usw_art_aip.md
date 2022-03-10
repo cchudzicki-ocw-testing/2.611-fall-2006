@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 26in_usw_art_aip.pdf
 uid: bda3fdf7-ba19-c5f5-e804-36a9ccd07400
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

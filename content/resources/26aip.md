@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 26aip.pdf
 uid: d5e2c934-ef60-a3e4-a24a-decf342bcebc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

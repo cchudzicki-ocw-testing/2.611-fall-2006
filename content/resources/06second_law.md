@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 06second_law.pdf
 uid: 4c32b084-5d40-ee00-555d-a443f8a0f58b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

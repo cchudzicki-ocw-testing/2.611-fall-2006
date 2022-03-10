@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 19brayton_irrev.pdf
 uid: a11f4477-fb29-b02e-431a-21ca283e81f3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

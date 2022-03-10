@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 12combustion.pdf
 uid: 2c5d9e4d-243e-2f26-ca06-0c6d171d4361
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

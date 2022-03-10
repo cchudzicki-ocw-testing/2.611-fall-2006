@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: references.pdf
 uid: 75dfea51-b771-84b7-8258-05171e53d859
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

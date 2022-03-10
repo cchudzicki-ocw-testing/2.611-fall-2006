@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 25gear_geometry.pdf
 uid: 0cf4f32c-c8e1-9e5f-2db1-32701f54e475
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

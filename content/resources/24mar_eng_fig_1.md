@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 24mar_eng_fig_1.pdf
 uid: b07657b0-68d8-8223-b650-9f48e7f32480
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: 25gear_mesh.avi
 uid: e76d4e0a-c0c6-8d5e-e9f2-2c0aa36f4bbc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

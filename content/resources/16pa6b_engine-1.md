@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: ''
 uid: 0d73eeef-34de-bc57-d43b-2cd339ff0a96
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

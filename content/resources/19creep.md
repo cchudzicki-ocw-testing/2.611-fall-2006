@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 19creep.pdf
 uid: 95b49410-83d3-aee4-8556-bbb112012724
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

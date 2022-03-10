@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 02propeller_test.pdf
 uid: a0b75e45-70cb-aebb-07e9-862996334217
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

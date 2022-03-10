@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 24gear_notes.pdf
 uid: 6fcf427f-31fa-d856-79d8-04368004b58f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

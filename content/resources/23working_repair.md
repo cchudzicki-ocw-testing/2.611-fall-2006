@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 23working_repair.pdf
 uid: 8f4869b1-3c94-4c3d-69b5-bd12346e54c4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ps6_soln.pdf
 uid: 511914ac-8052-f4c6-e4ed-3ae33d3bd6d0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
