@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on textbooks and reading assignments
+  by lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -75,7 +77,7 @@ Waterjet notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis: pp. 181-183. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 73e1f3bd-ca3d-7d80-ced1-863094f47a40 "PDF" %}}) (Courtesy of the Society of Naval Architects and Marine Engineers. Used with permission.)
+Lewis: pp. 181-183. ({{% resource_link 73e1f3bd-ca3d-7d80-ced1-863094f47a40 "PDF" %}}) (Courtesy of the Society of Naval Architects and Marine Engineers. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides problem sets and solutions for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -87,7 +88,7 @@ Problem set 4 ({{% resource_link 024390ce-f746-8719-7c39-ca03781980d2 "PDF" %}})
 Problem set 5 ({{% resource_link 22c23925-e561-3a19-4b2c-936bdba8bd10 "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7858afc9-72af-2f8f-e714-1a154b5620f3 "PDF" %}})
+({{% resource_link 7858afc9-72af-2f8f-e714-1a154b5620f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

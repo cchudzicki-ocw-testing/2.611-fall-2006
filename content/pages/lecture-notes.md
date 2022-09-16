@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes and lecture handouts.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -77,7 +78,7 @@ Detail design ({{% resource_link 79b5acff-62f5-78f6-87df-c082cf380a14 "PDF" %}})
 
 {{< tdclose >}}
 {{< tdopen >}}
-Propeller note book (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6e05bb5e-9612-760c-a8d1-a9746cbf9a95 "PDF" %}})
+Propeller note book ({{% resource_link 6e05bb5e-9612-760c-a8d1-a9746cbf9a95 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -379,7 +380,7 @@ Repairable systems supplement ({{% resource_link 8f4869b1-3c94-4c3d-69b5-bd12346
 Reduction gears notes ({{% resource_link 6fcf427f-31fa-d856-79d8-04368004b58f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Marine engineering (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b07657b0-68d8-8223-b650-9f48e7f32480 "PDF" %}}) (Courtesy of SNAME. Used with permission.)
+Marine engineering ({{% resource_link b07657b0-68d8-8223-b650-9f48e7f32480 "PDF" %}}) (Courtesy of SNAME. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -419,7 +420,7 @@ A more completely designed gear video ({{% resource_link 1f3eeba8-77c9-7f0b-ca51
 
 {{< tdclose >}}
 {{< tdopen >}}
-Gear automation and design revised (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c0dade71-c6df-e8f7-770f-dd3f2eecd673 "PDF - 1.0 MB" %}})
+Gear automation and design revised ({{% resource_link c0dade71-c6df-e8f7-770f-dd3f2eecd673 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
